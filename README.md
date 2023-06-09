@@ -26,4 +26,19 @@ To use the String Utils Library in your Kotlin project, follow these steps:
 ## Installation
 
 You can install the String Utils Library by adding the following dependency to your project's build.gradle or build.gradle.kts file:
+Step 1. Add the JitPack repository to your build file
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  ```
+   Step 2. Add the dependency
+  ```
+	dependencies {
+	        implementation 'com.github.abhisek1999-android:StringUtils:Tag'
+	}
+  ```
 
