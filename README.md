@@ -23,7 +23,7 @@ To use the String Utils Library in your Kotlin project, follow these steps:
 
 4. Enjoy the enhanced string manipulation capabilities provided by the library!
 
-## Installation
+## Installation [![](https://jitpack.io/v/abhisek1999-android/StringUtils.svg)](https://jitpack.io/#abhisek1999-android/StringUtils)
 
 You can install the String Utils Library by adding the following dependency to your project's build.gradle or build.gradle.kts file:
 Step 1. Add the JitPack repository to your build file
