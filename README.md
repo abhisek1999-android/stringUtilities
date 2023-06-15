@@ -41,7 +41,7 @@ Step 1. Add the JitPack repository to your build file
    Step 2. Add the dependency
   ```gradle
 	dependencies {
-	        implementation 'com.github.abhisek1999-android:StringUtils:Tag'
+	        implementation 'com.github.abhisek1999-android:StringUtils:<VERSION>'
 	}
   ```
 
