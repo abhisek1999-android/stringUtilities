@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+    "namespace": "android_app",
+    "package_name": "com.bringitnow.customer", 
+    "sha256_cert_fingerprints":  ["FC:9B:47:05:5F:08:FB:B4:5D:24:34:31:9B:F0:B6:FF:DD:19:7A:0C:A7:FC:62:55:DF:6E:9E:7C:A7:26:DD:F1"]
+   }
+  }]
